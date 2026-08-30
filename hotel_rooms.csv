@@ -1,0 +1,16 @@
+﻿room_id,room_number,room_type,base_price,capacity,floor,nights_sold
+1,101,Standard,1400,2,1,133
+2,102,Standard,1400,2,1,143
+3,103,Standard,1400,2,1,144
+4,104,Standard,1400,2,1,146
+5,105,Standard,1400,2,1,130
+6,106,Standard,1400,2,1,137
+7,107,Deluxe,2200,2,1,150
+8,108,Deluxe,2200,2,1,136
+9,109,Deluxe,2200,2,1,135
+10,110,Deluxe,2200,2,1,145
+11,201,Deluxe,2200,2,2,156
+12,202,Suite,4200,3,2,137
+13,203,Suite,4200,3,2,143
+14,204,Family,3000,4,2,123
+15,205,Family,3000,4,2,129
